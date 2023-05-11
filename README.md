@@ -1,4 +1,5 @@
 ### Hi there 👋
+Shruti is an experienced product designer with a demonstrated history of working in the automotive industry. She is passionate about product design and development. She aims to help companies build excellent, human centered products and solve complex challenges. She is excited to work with amazing people in cross functional teams and is always curious, learning, keeping abreast of latest technological advancements. If you're looking for a problem-solver and a great team player, she would love to have a conversation.
 
 <!--
 **Shruti-Awale/Shruti-Awale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
